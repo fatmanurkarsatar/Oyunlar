@@ -16,4 +16,6 @@ JS ile yazılmış oyunlar
 <h3><b>5- SendingE-mail </b></h3>
 <img src="https://github.com/fatmanurkarsatar/Oyunlar/assets/93381609/78e956c8-1fc1-40ea-b6af-6a04b64ac397" width="100%"/>
 
+Fatma Nur KARSATAR
+
 
